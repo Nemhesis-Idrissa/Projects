@@ -26,7 +26,7 @@ The application consists of:
 - **Qt Framework:** Version 6 or higher.
 - **C++ Compiler:** Compatible with C++17 standard.
 - **appicon.rc and message.ico:** For apps icon
-- **background image link:**https://pin.it/3y2mQ9qzB
+- **background image link:** https://pin.it/3y2mQ9qzB
 
 ## Usage
 
