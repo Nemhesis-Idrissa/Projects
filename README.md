@@ -23,7 +23,7 @@ The application consists of:
 
 ## Requirements
 
-- **Qt Framework:** Version 6.7 or higher.
+- **Qt Framework:** Version 6 or higher.
 - **C++ Compiler:** Compatible with C++17 standard.
 
 ## Usage
