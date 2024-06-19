@@ -22,10 +22,10 @@ public:
     Menu(QWidget *parent = nullptr)noexcept;
 
     Menu (const Menu&)  = delete;
-    Menu (const Menu&&) = delete;
+    Menu (Menu&&)       = delete;
 
     Menu& operator=(const Menu&)  = delete;
-    Menu& operator=(const Menu&&) = delete;
+    Menu& operator=(Menu&&)       = delete;
 
 
     void loadCentral(void);
