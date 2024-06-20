@@ -53,8 +53,9 @@ This project implements a multithreaded text search using the Boyer-Moore algori
 
 ## Requirements
 
-- Qt 5.15 or later
-- C++17 or later
+- Qt 5 or higher
+- C++17 or higher
+- **Dataset link:** https://www.kaggle.com/datasets/dhruvildave/en-fr-translation-dataset
 
 ## Results 
 ![image](https://github.com/Nemhesis-Idrissa/Projects/assets/43876545/26e33ff7-8622-4ae0-b6c8-064a62646238)
